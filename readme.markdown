@@ -4,4 +4,4 @@
 
 Images don't work I guess.
 
-Goodbye.
+Hello. Goodbye.
